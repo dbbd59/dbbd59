@@ -5,9 +5,12 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 
 <div align="center">
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 </div>
+
+
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on;
@@ -18,7 +21,6 @@ Happy Coding! 😊
 
 <div align="center">
 
-  [![HitCount](http://hits.dwyl.com/dbbd59/dbbd59.svg)](http://hits.dwyl.com/dbbd59/dbbd59)
 
 <i>Follow me:</i><br>
 
@@ -26,6 +28,7 @@ Happy Coding! 😊
 <a href="https://www.instagram.com/davidebolzoni59/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/1171690206" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/npm/l/:flutter" alt="DEV.to"></a>
+[![HitCount](http://hits.dwyl.com/dbbd59/dbbd59.svg)](http://hits.dwyl.com/dbbd59/dbbd59)
 
 </div>
 
