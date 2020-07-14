@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey 👋 I'm [Davide](https://davidebolzoni.com) 
 
-<!--
-**dbbd59/dbbd59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](https://patchai.io). Beside's programming, I enjoy 🏎️ F1 and ⛵ Sailing.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working on;
+- 🌱 I’m currently learning ; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: davide.bolzoni59@gmail.com;
+
+
+
+![dbbd59's github stats](https://github-readme-stats.vercel.app/api/?username=dbbd59&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
