@@ -15,7 +15,7 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 
 <div align="center">
 
-  <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
 </div>
 
