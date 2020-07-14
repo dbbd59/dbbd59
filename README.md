@@ -29,6 +29,8 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 - 🌱 I’m currently learning ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davide.bolzoni59@gmail.com;
+
+
 Happy Coding! 😊
 
 <div align="center">
