@@ -42,7 +42,8 @@ Happy Coding! 😊
 <a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/npm/l/:flutter" alt="DEV.to"></a>
 [![HitCount](http://hits.dwyl.com/dbbd59/dbbd59.svg)](http://hits.dwyl.com/dbbd59/dbbd59)
 
+![dbbd59's github stats](https://github-readme-stats.vercel.app/api/?username=dbbd59&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 </div>
 
 
-![dbbd59's github stats](https://github-readme-stats.vercel.app/api/?username=dbbd59&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
