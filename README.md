@@ -1,5 +1,15 @@
 ### Hey! I'm [Davide](https://davidebolzoni.com) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
+```
+ _____    ______   ______   _____    _______   ____  
+(____ \  (____  \ (____  \ (____ \  (_______) / __ \ 
+ _   \ \  ____)  ) ____)  ) _   \ \  ______  ( (__) )
+| |   | ||  __  ( |  __  ( | |   | |(_____ \  \__  / 
+| |__/ / | |__)  )| |__)  )| |__/ /  _____) )   / /  
+|_____/  |______/ |______/ |_____/  (______/   /_/   
+
+```
+
 
 Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](https://patchai.io).  <br/>Beside's programming, I enjoy 🏎️ F1 and ⛵ Sailing.
 
@@ -10,6 +20,8 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 </div>
 
 
+
+                                                     
 
 **Talking about Personal Stuffs:**
 
