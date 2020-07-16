@@ -25,8 +25,8 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on;
-- 🌱 I’m currently learning ; 
+- 👨🏽‍💻 I’m currently working on Flutter and Node.js;
+- 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davide.bolzoni59@gmail.com;
 
