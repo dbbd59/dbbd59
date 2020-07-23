@@ -11,17 +11,7 @@
 ```
 
 
-Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](https://patchai.io).  <br/>Beside's programming, I enjoy 🏎️ F1 and ⛵ Sailing.
-
-<div align="center">
-
-  <img alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
-
-</div>
-
-
-
-                                                     
+Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](https://patchai.io).  <br/>Beside's programming, I enjoy 🏎️ F1 and ⛵ Sailing.                                                     
 
 **Talking about Personal Stuffs:**
 
@@ -29,6 +19,15 @@ Hi, I'm Davide Bolzoni, a Software Engineer 🚀 from Italy, currently, I'm work
 - 🌱 I’m currently learning Rust; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davide.bolzoni59@gmail.com;
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
 
 Happy Coding! 😊
@@ -41,11 +40,12 @@ Happy Coding! 😊
 <a href="https://www.linkedin.com/in/davide-bolzoni-a54958112/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/davidebolzoni59/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/1171690206" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/npm/l/:flutter" alt="DEV.to"></a>
+<a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/badge/PortfolioWebsite-davidebolzoni.com-2648ff?style=flat-square&logo=google-chrome"></a>
 [![HitCount](http://hits.dwyl.com/dbbd59/dbbd59.svg)](http://hits.dwyl.com/dbbd59/dbbd59)
 
 ![dbbd59's github stats](https://github-readme-stats.vercel.app/api/?username=dbbd59&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![dbbd59's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbbd59&theme=dark&hide_langs_below=1)
 </div>
 
 
