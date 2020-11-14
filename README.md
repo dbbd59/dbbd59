@@ -30,9 +30,6 @@ Happy Coding! 😊
 <a href="https://www.instagram.com/davidebolzoni59/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/1171690206" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/badge/PortfolioWebsite-davidebolzoni.com-2648ff?style=flat-square&logo=google-chrome"></a>
-
-
-![dbbd59's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbbd59&theme=dark&hide_langs_below=1)
 </div>
 
 
