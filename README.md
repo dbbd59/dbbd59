@@ -5,7 +5,7 @@ Hi!, I'm a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Flutter and Node.js;
-- 🌱 I’m currently learning Rust; 
+- 🌱 I’m currently learning Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davide.bolzoni59@gmail.com;
 
