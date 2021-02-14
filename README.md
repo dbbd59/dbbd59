@@ -32,4 +32,8 @@ Happy Coding! 😊
 <a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/badge/PortfolioWebsite-davidebolzoni.com-2648ff?style=flat-square&logo=google-chrome"></a>
 </div>
 
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbbd59&theme=great-gatsby)
+
+</div>
