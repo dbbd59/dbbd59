@@ -22,14 +22,14 @@ Hi!, I'm a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](
 Happy Coding! 😊
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dbbd59&theme=onedark&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dbbd59&theme=onedark&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/dbbd59)
 </div>
 <div align="center">
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dbbd59&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide=prolog,ruby,html,java,swift,kotlin,makefile&langs_count=3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dbbd59&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide=prolog,ruby,html,java,swift,kotlin,makefile&langs_count=3)](https://github.com/dbbd59)
   
-[![dbbd59's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbbd59&layout=compact&theme=onedark)](https://github.com/dbbd59/github-readme-stats)
+[![dbbd59's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbbd59&layout=compact&theme=onedark)](https://github.com/dbbd59)
 
 </div>
 
