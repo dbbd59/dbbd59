@@ -20,9 +20,16 @@ Hi!, I'm a Software Engineer 🚀 from Italy, currently, I'm working [@PatchAi](
 
 
 Happy Coding! 😊
-
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dbbd59&theme=onedark&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<div align="center">
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbbd59&theme=great-gatsby)
+
+</div>
 
 <i>Follow me:</i><br>
 
@@ -32,8 +39,4 @@ Happy Coding! 😊
 <a href="https://davidebolzoni.com" target="_blank"><img src="https://img.shields.io/badge/PortfolioWebsite-davidebolzoni.com-2648ff?style=flat-square&logo=google-chrome"></a>
 </div>
 
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbbd59&theme=great-gatsby)
-
-</div>
