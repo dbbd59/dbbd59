@@ -27,7 +27,7 @@ Happy Coding! 😊
 <div align="center">
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dbbd59&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide=prolog,ruby,html,java,swift,kotlin,makefile&langs_count=3)](https://github.com/dbbd59)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dbbd59&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide=prolog,ruby,java&langs_count=6)](https://github.com/dbbd59)
   
 [![dbbd59's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbbd59&layout=compact&theme=onedark)](https://github.com/dbbd59)
 
