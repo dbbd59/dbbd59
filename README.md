@@ -1,9 +1,7 @@
 <div align="center">
+<img src="https://github.com/dbbd59/dbbd59/blob/master/header.png">
   
-  ![GitHub Snake](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
-
-  
-<h1 align="center">Hey there, i'm Davide <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+![GitHub Snake](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
 
 Currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) 
 
