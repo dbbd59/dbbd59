@@ -28,10 +28,8 @@ Currently working as a **Software Engineer** at [**PatchAi**](https://www.patcha
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
   </a> 
 </p>
-
 </div>
-<br/>  
- 
+
 <div align="center">
 
 ## Github Stats 📈
