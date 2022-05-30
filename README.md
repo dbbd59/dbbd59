@@ -34,8 +34,8 @@ Currently working as a **Software Engineer** at [**PatchAi**](https://www.patcha
 
 ## Github Stats 📈
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dbbd59&show_icons=true&bg_color=22272E&title_color=52E5A3&text_color=3FCFFD&locale=en&hide_border=true" alt="dbbd59's GitHub Stats" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=dbbd59&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=3FCFFD&dates=52E5A3&sideNums=52E5A3&currStreakNum=52E5A3&currStreakLabel=3FCFFD&fire=3FCFFD&ring=3FCFFD&stroke=22272E" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dbbd59&show_icons=true&bg_color=22272E&title_color=DBBD59&text_color=DBBD59&locale=en&hide_border=true" alt="dbbd59's GitHub Stats" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=dbbd59&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=DBBD59&dates=DBBD59&sideNums=DBBD59&currStreakNum=DBBD59&currStreakLabel=DBBD59&fire=DBBD59&ring=DBBD59&stroke=DBBD59" />
   
 </div>
 
