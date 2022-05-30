@@ -1,5 +1,8 @@
 <div align="center">
   
+  ![GitHub Snake](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
+
+  
 <h1 align="center">Hey there, i'm Davide <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 Currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) 
@@ -38,5 +41,3 @@ Currently working as a **Software Engineer** at [**PatchAi**](https://www.patcha
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=dbbd59&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=DBBD59&dates=DBBD59&sideNums=DBBD59&currStreakNum=DBBD59&currStreakLabel=DBBD59&fire=DBBD59&ring=DBBD59&stroke=DBBD59" />
   
 </div>
-
- 
