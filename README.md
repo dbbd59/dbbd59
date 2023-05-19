@@ -3,7 +3,7 @@
   
 ![GitHub Snake](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
 
-Currently working as a **Software Engineer** //at [**PatchAi**](https://www.patchai.io/) 
+Currently working as a **Software Engineer** at [**ONYON**](https://onyonapp.com/) 
 
 </div>
 
